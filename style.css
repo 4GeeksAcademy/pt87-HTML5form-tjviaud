@@ -1,0 +1,10 @@
+.error-message {background-color: rgb(238, 167, 167); padding: 10px;  border-radius: 5px; margin-top: 5px;}
+.payment-methods {border: 1px solid grey; background-color: grey; padding: 10px; border-radius: 5px; margin-top: 5px;}
+.form-label1 {margin-top: 5px;}
+.container {
+  border: 2px solid #333;
+  border-radius: 8px; 
+  padding: 20px;
+  background-color: #f9f9f9; }
+.btn-secondary {margin-right: 10px;}
+
